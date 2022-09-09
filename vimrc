@@ -3,7 +3,7 @@
 call plug#begin('~/.vim/plugged')
 " Plug 'davidhalter/jedi-vim'
 Plug 'ervandew/supertab'
-Plug 'scrooloose/nerdcommenter'
+Plug 'preservim/nerdcommenter'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
